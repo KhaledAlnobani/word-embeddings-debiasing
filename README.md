@@ -13,5 +13,4 @@ This project is based on a lab from the **Deep Learning Specialization** course 
 
 ## References
 - Based on research by Bolukbasi et al. on debiasing word embeddings.
-- Based on a lab from the [Deep Learning Specialization](https://learn.deeplearning.ai/specializations/deep-learning) course by Andrew Ng (Coursera).</content>
-<parameter name="filePath">c:\Users\khale\ML\Word Vector Representation\README.md
+- Based on a lab from the [Deep Learning Specialization](https://learn.deeplearning.ai/specializations/deep-learning) course by Andrew Ng (Coursera)
